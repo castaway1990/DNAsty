@@ -11,7 +11,7 @@
 ## 5 feed the lociList to SCanSNP main walker
 ### selection biallelic only?? :S
 
-## 6 ADATA layer addition
+## 6 ADATA layer addition (with locus-level information)
 
 adata.layer["Alt"] 
 
