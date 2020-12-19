@@ -9,5 +9,12 @@
 ## 4 split gene into point positions
 
 ## 5 feed the lociList to SCanSNP main walker
+### selection biallelic only?? :S
+
+## 6 ADATA layer addition
+
+adata.layer["Alt"] 
+
+adata.layer["Ref"] 
 
   
